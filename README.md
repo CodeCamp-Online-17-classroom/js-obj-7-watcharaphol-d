@@ -1,4 +1,12 @@
-# js-lab-52
-### Lab52 Object: isEmpty ?
-- ให้สร้างฟังก์ชันเพื่อตรวจสอบ object ว่าเป็น object ว่างหรือไม่ 
-- ถ้า object มี property อย่างน้อยหนึ่งแสดงว่าไม่ใช่ object ว่าง
+# js-lab-53
+### Lab53 Object: calSalary
+- ให้คำนวณผลรวมของ salaries ใน object ที่มี property แบบด้านล่าง
+- ถ้า object เป็น object ว่าง ให้ return ค่าผลรวมเป็น 0
+
+```JavaScript
+let salaries = {
+  John: 100,
+  Ann: 160,
+  Pete: 130
+};
+```
