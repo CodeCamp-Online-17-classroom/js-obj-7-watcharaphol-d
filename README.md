@@ -10,3 +10,7 @@ let salaries = {
   Pete: 130
 };
 ```
+
+### Homework Finished 13/07/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
